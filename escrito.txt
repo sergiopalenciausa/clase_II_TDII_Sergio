@@ -10,3 +10,5 @@ git checkout -b nombre de la nueva rama
 git add .
 git commit -m nuevo cmmit 
 git push origin a la nueva rama 
+
+--
